@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8a39844.css",
+    "main.js": "/static/js/main.d5d121c2.js",
+    "static/media/CV_2023_anaiskhelif.pdf": "/static/media/CV_2023_anaiskhelif.4b030e71327bdfe7cc83.pdf",
+    "static/media/anaiskhelif.webp": "/static/media/anaiskhelif.46fab20fedef462ab54d.webp",
+    "static/media/Valkyrie-Regular.ttf": "/static/media/Valkyrie-Regular.bb3bbaab97932b23531c.ttf",
+    "static/media/Valkyrie-Extended.ttf": "/static/media/Valkyrie-Extended.9d9723db455abc333cf0.ttf",
+    "static/media/Valkyrie-BoldExtended.ttf": "/static/media/Valkyrie-BoldExtended.c31c7651c8c2fee318c2.ttf",
+    "index.html": "/index.html",
+    "main.c8a39844.css.map": "/static/css/main.c8a39844.css.map",
+    "main.d5d121c2.js.map": "/static/js/main.d5d121c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a39844.css",
+    "static/js/main.d5d121c2.js"
+  ]
+}
